@@ -1,13 +1,3 @@
-# &#9733; Hotel NoMa - San Francisco &#9733;
-
-Hotel NoMa is a fictitious hotel based in San Francisco, CA. The client-side of this project is built 
-using a Single Page Application (SPA) model and incorporates most core functionalities found on traditional hotel websites. 
-The server-side of this application follows a RESTful API architecture to manipulate a database where 
-itineraries are stored. Payments are handled externally through a third-party API.
-
-# Live demo
-<https://hotel-noma.herokuapp.com>
-
 # Why this project
 Many fortnights ago, I needed a hotel room for an out-of-town visit 
 and spent way too much time shopping for an accommodation that optimized
@@ -44,8 +34,6 @@ and here it is now... mostly complete but fully functional!
 ## Notable tools
 * Stripe Payment API
 * Google Maps API
-* Heroku
-* Moment.js
 * nodemailer
 * axios
 
@@ -122,24 +110,7 @@ to add a customer service management system like Zendesk.
 * Account registration for both customers and management
 
 <a name="screenshots"></a>
-## Screenshots
-<img align="middle" alt='homepage' width='430' src='https://i.imgur.com/XkHJO48.png' />
-
-<img align="middle" alt='results' width='430' src='https://i.imgur.com/zW7tVNi.png' />
-
-<img align="middle" alt='checkout' width='430' src='https://i.imgur.com/Wj0Uoqp.png' />
-
-<img align="middle" alt='confirmation' width='430' src='https://i.imgur.com/dh92Nst.png' />
-
-<img align="middle" alt='confirmationEmail' width='430' src='https://i.imgur.com/YRUzXOU.png' />
-
-<img align="middle" alt='stripeDashboard' width='430' src='https://i.imgur.com/7xG8lWI.png' />
-
 
 <a name="license"></a>
-## License
- * Copyright (C) 2017 Alex Ha
- * This Source Code Form is subject to the terms of the Mozilla Public
- * License, v. 2.0. If a copy of the MPL was not distributed with this file,
-  You can obtain one at http://mozilla.org/MPL/2.0/.
+
  
